@@ -1,0 +1,1 @@
+str.split("") will return an array of ___individual characters___.

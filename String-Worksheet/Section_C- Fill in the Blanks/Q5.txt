@@ -1,0 +1,1 @@
+str.startsWith("web") returns a ___boolean____ value.

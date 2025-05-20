@@ -1,0 +1,1 @@
+str.toLowerCase() is used to convert a string to ___lowercase___.
